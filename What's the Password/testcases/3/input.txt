@@ -1,0 +1,31 @@
+10
+3
+a b c
+abc
+4
+abcd abc a b
+abc
+5
+klm kh ju ab new
+abc
+5
+123456789 123 45 789 6
+12345789
+5
+123456789 123 45 6 789
+12345678
+3
+kr245 ww1 er8
+er8
+4
+we will rock you
+wewillwewillrockyou
+1
+words
+wordswordswords
+5
+minute day hour second after
+dayafterdayhourafterhourminuteafterminutesecondaftersecond
+6
+simple repetition problem this is the
+this problem is simple repitition is the problem not
